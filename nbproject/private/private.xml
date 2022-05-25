@@ -2,15 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/E:/fwd%20testing/sales%20invoice%20generator%20project%201/SalesInvoiceMay/src/com/sales/view/SalesLineDialog.java</file>
-            <file>file:/E:/fwd%20testing/sales%20invoice%20generator%20project%201/SalesInvoiceMay/src/com/sales/model/SalesLine.java</file>
-            <file>file:/E:/fwd%20testing/sales%20invoice%20generator%20project%201/SalesInvoiceMay/src/com/sales/model/SalesInvoice.java</file>
-            <file>file:/E:/fwd%20testing/sales%20invoice%20generator%20project%201/SalesInvoiceMay/src/com/sales/view/ViewFrame.java</file>
-            <file>file:/E:/fwd%20testing/sales%20invoice%20generator%20project%201/SalesInvoiceMay/src/com/sales/controller/Controller.java</file>
-            <file>file:/E:/fwd%20testing/sales%20invoice%20generator%20project%201/SalesInvoiceMay/src/com/sales/model/SalesInvoicesTableModel.java</file>
-            <file>file:/E:/fwd%20testing/sales%20invoice%20generator%20project%201/SalesInvoiceMay/src/com/sales/model/SalesLineTableModel.java</file>
-            <file>file:/E:/fwd%20testing/sales%20invoice%20generator%20project%201/SalesInvoiceMay/src/com/sales/view/SalesInvoiceDialog.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
